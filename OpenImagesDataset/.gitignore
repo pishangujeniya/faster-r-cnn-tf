@@ -1,0 +1,11 @@
+/images
+/model
+/train-images-boxable-with-rotation.csv
+/oidv6-train-annotations-bbox.csv
+/class-descriptions-boxable.csv
+/annotation*
+/subset*.csv
+/config.pickle
+
+
+*.h5
